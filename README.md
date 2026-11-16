@@ -1,5 +1,7 @@
 # CardioRisk: explainable coronary artery disease risk prediction
 
+![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white) ![Status](https://img.shields.io/badge/status-research%20prototype-f59e0b) ![Tests](https://img.shields.io/badge/tests-7%20passing-16a34a) ![Licence](https://img.shields.io/badge/licence-all%20rights%20reserved-b91c1c)
+
 Multi-hospital validation of a machine-learning model that estimates the probability of
 coronary artery disease from 13 routine clinical variables, with an interactive demo.
 
@@ -68,4 +70,6 @@ Hariharan S, Department of Biomedical Engineering.
 
 ## License
 
-Code: MIT. Data: CC BY 4.0, credited above.
+Copyright (c) 2026 Hariharan S. **All rights reserved.** This repository is public for viewing
+and evaluation only. Copying, reuse or redistribution of the code, text, figures or models
+needs written permission from the author. See [LICENSE](LICENSE). The UCI Heart Disease data (CC BY 4.0) is credited in the README.
